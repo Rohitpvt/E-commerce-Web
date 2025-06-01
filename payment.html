@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Payment Page</title>
+    <link rel="stylesheet" href="payment.css">
+</head>
+
+<body>
+    <div class="overlay" id="overlay"></div>
+
+    <nav class="navbar">
+        <span class="material-icons menu-icon" role="button" aria-label="Open menu">menu</span>
+
+        <div class="nav-center">
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><span class="material-icons search-icon" id="search-button" role="button"
+                        aria-label="Search">search</span></li>
+                <li><a href="#top">Contact</a></li>
+                <li><a href="#" id="aboutLink">About</a></li>
+            </ul>
+        </div>
+        <a href="cart.html" class="cart-link">
+            <span class="material-icons cart-icon">shopping_cart</span>
+        </a>
+    </nav>
+
+
+    <div class="sidebar" id="sidebar">
+        <h2 class="sidebar-heading">Categories</h2>
+        <ul class="sidebar-links">
+            <li><a href="#audio">Audio</a></li>
+            <li><a href="#storage">Storage</a></li>
+            <li><a href="#keyboards">Keyboards</a></li>
+            <li><a href="#mouse">Mouse</a></li>
+            <li><a href="#display">Display</a></li>
+            <li><a href="#gpu">GPU</a></li>
+            <li><a href="#cpu">CPU</a></li>
+            <li><a href="#motherboards">Motherboards</a></li>
+            <li><a href="#pc case">PC Case</a></li>
+            <li><a href="#gaming laptops">Gaming Laptops</a></li>
+        </ul>
+    </div>
+
+    <div class="search-bar-container" id="search-bar">
+        <input type="text" class="search-bar-input" placeholder="Search...">
+        <ul class="suggestions-list" id="suggestions-list"></ul>
+    </div>
+
+    <div class="payment-container">
+
+
+        <div class="payment-options">
+            <h2>Payment Options</h2>
+            <label>
+                <input type="radio" name="payment" value="cod">
+                <i class="fas fa-money-bill-wave"></i> Cash on Delivery
+            </label><br>
+            <label>
+                <input type="radio" name="payment" value="debit">
+                <i class="fas fa-credit-card"></i> Debit Card
+            </label><br>
+            <label>
+                <input type="radio" name="payment" value="credit">
+                <i class="fas fa-credit-card"></i> Credit Card
+            </label><br>
+            <label>
+                <input type="radio" name="payment" value="upi">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20" height="20" viewBox="0 0 50 50"
+                    style="margin-right: 10px;">
+                    <path
+                        d="M9,48c-0.172,0-0.345-0.044-0.501-0.135c-0.393-0.228-0.582-0.691-0.463-1.128l12.02-44c0.111-0.406,0.465-0.7,0.885-0.733 c0.428-0.025,0.816,0.201,0.99,0.584l9.98,22c0.172,0.379,0.091,0.826-0.204,1.12l-22,22C9.515,47.9,9.258,48,9,48z M40.91,24.587 l-10-22c-0.174-0.385-0.573-0.623-0.991-0.583c-0.42,0.034-0.774,0.329-0.884,0.736l-1.807,6.683l6.504,14.338 c0.514,1.13,0.269,2.481-0.611,3.36L18.487,41.755l-1.347,4.984c-0.118,0.438,0.073,0.9,0.465,1.127 c0.156,0.09,0.329,0.134,0.5,0.134c0.26,0,0.517-0.101,0.709-0.294l21.895-22C41.002,25.411,41.082,24.965,40.91,24.587z">
+                    </path>
+                </svg> UPI
+            </label>
+
+        </div>
+
+
+
+
+        <div class="address-section">
+            <h2>Shipping Details</h2>
+            <p class="address-display"></p>
+        </div>
+
+
+        <div class="order-summary">
+            <h2>Order Details</h2>
+            <div class="cart-heading">
+                <p class="heading-name">Name</p>
+                <p class="heading-quantity">Quantity</p>
+                <p class="heading-price">Price</p>
+            </div>
+            <div id="cartItems">
+
+            </div>
+            <div class="totals">
+                <p>Subtotal: <span id="subtotal">$0.00</span></p>
+                <p>Shipping: <span id="shipping">$5.00</span></p>
+                <p>Discount: <span id="discount">$0.00</span></p>
+                <p class="grand">Grand Total: <span id="total">$0.00</span></p>
+            </div>
+            <button id="codButton">Place Order</button>
+        </div>
+
+    </div>
+
+    <script src="payment.js"></script>
+</body>
+
+</html>

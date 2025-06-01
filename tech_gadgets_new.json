@@ -1,0 +1,1302 @@
+[
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ee7"
+    },
+    "name": "Wireless Bluetooth Earbuds",
+    "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+    "price": 59.99,
+    "image_url": "https://shopatsc.com/cdn/shop/files/WF-1000XM5_smokypink_KeyVisual.jpg?v=1727161000",
+    "brand": "Apple",
+    "category": "Audio",
+    "product_description": "The Wireless Bluetooth Earbuds offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as high-quality wireless earbuds with noise cancellation and long battery life., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ee8"
+    },
+    "name": "Sony WH-1000XM4",
+    "description": "Industry-leading noise canceling headphones with superior sound quality.",
+    "price": 349.99,
+    "image_url": "https://www.theaudiostore.in/cdn/shop/files/SonyWH-ULT900NULTWEARActiveNoise-CancelingWirelessHeadphonesblack01.jpg?v=1720808381",
+    "brand": "Sony",
+    "category": "Audio",
+    "product_description": "The Sony WH-1000XM4 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as industry-leading noise canceling headphones with superior sound quality., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ee9"
+    },
+    "name": "Bose SoundLink Revolve",
+    "description": "Portable Bluetooth speaker with 360-degree sound and deep bass.",
+    "price": 199.99,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/6/425135853/UU/CL/WA/5295581/bose-soundlink-revolve-bluetooth-speaker-silver-grey.jpg",
+    "brand": "Bose",
+    "category": "Audio",
+    "product_description": "The Bose SoundLink Revolve offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as portable bluetooth speaker with 360-degree sound and deep bass., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417eea"
+    },
+    "name": "JBL Flip 5",
+    "description": "Waterproof portable Bluetooth speaker with punchy bass and long battery life.",
+    "price": 89.95,
+    "image_url": "https://m.media-amazon.com/images/I/71Xyg9SwRwL.jpg",
+    "brand": "JBL",
+    "category": "Audio",
+    "product_description": "The JBL Flip 5 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as waterproof portable bluetooth speaker with punchy bass and long battery life., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417eeb"
+    },
+    "name": "Sennheiser HD 599",
+    "description": "Open-back headphones with detailed sound and comfortable design.",
+    "price": 199.95,
+    "image_url": "https://www.headphonezone.in/cdn/shop/products/sennheiser-hd-599-headphone-zone-29109746055.jpg?v=1595253120&width=1160",
+    "brand": "Sennheiser",
+    "category": "Audio",
+    "product_description": "The Sennheiser HD 599 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as open-back headphones with detailed sound and comfortable design., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417eec"
+    },
+    "name": "Beats Solo3 Wireless",
+    "description": "On-ear wireless headphones with up to 40 hours of battery life.",
+    "price": 199.95,
+    "image_url": "https://m.media-amazon.com/images/I/51Xz9EVYWWL.jpg",
+    "brand": "Beats",
+    "category": "Audio",
+    "product_description": "The Beats Solo3 Wireless offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as on-ear wireless headphones with up to 40 hours of battery life., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417eed"
+    },
+    "name": "Anker Soundcore 2",
+    "description": "Compact Bluetooth speaker with great sound and a 24-hour battery life.",
+    "price": 39.99,
+    "image_url": "https://images-cdn.ubuy.co.in/6641ad1b4d08eb102807b284-anker-soundcore-2-portable-wireless.jpg",
+    "brand": "Anker",
+    "category": "Audio",
+    "product_description": "The Anker Soundcore 2 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as compact bluetooth speaker with great sound and a 24-hour battery life., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417eee"
+    },
+    "name": "Audio-Technica ATH-M50X",
+    "description": "Professional studio monitor headphones with exceptional clarity and bass response.",
+    "price": 149,
+    "image_url": "https://www.bajaao.com/cdn/shop/files/audio-technica-headphones-audio-technica-ath-m50x-professional-monitor-headphones-31225826738355.jpg?v=1687172437",
+    "brand": "Audio-Technica",
+    "category": "Audio",
+    "product_description": "The Audio-Technica ATH-M50X offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as professional studio monitor headphones with exceptional clarity and bass response., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417eef"
+    },
+    "name": "Marshall Kilburn II",
+    "description": "Portable Bluetooth speaker with powerful sound and iconic design.",
+    "price": 299.99,
+    "image_url": "https://d2xamzlzrdbdbn.cloudfront.net/products/26ab2672-d136-4506-a955-83dfcb98db7f21010813.jpg",
+    "brand": "Marshall",
+    "category": "Audio",
+    "product_description": "The Marshall Kilburn II offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as portable bluetooth speaker with powerful sound and iconic design., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef0"
+    },
+    "name": "Samsung Galaxy Buds Pro",
+    "description": "Wireless earbuds with intelligent active noise cancellation and premium sound.",
+    "price": 199.99,
+    "image_url": "https://m.media-amazon.com/images/I/51TkK-s68qS.jpg",
+    "brand": "Samsung",
+    "category": "Audio",
+    "product_description": "The Samsung Galaxy Buds Pro offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Audio category. With features such as wireless earbuds with intelligent active noise cancellation and premium sound., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef1"
+    },
+    "name": "Portable SSD",
+    "description": "Fast and reliable portable SSD with 1TB storage, perfect for on-the-go data transfer.",
+    "price": 149.99,
+    "image_url": "https://gppro.in/wp-content/uploads/2022/04/GP002493-3.jpg",
+    "brand": "Samsung",
+    "category": "Storage",
+    "product_description": "The Portable SSD offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as fast and reliable portable ssd with 1tb storage, perfect for on-the-go data transfer., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef2"
+    },
+    "name": "External Hard Drive",
+    "description": "2TB external hard drive with USB 3.0 connectivity for quick data access.",
+    "price": 89.99,
+    "image_url": "https://saboocomputers.com/wp-content/uploads/2023/05/HDD_SG_STKM1000400_1TB-1.jpg",
+    "brand": "Western Digital",
+    "category": "Storage",
+    "product_description": "The External Hard Drive offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as 2tb external hard drive with usb 3.0 connectivity for quick data access., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef3"
+    },
+    "name": "MicroSD Card",
+    "description": "128GB microSD card with high-speed data transfer and durable design.",
+    "price": 19.99,
+    "image_url": "https://wroom.co.in/wp-content/uploads/2022/04/Sandisk-128GB-Extreme-microSDXC-UHS-I-Memory-Card-Online-Buy-India_1-1000x1000.jpg",
+    "brand": "SanDisk",
+    "category": "Storage",
+    "product_description": "The MicroSD Card offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as 128gb microsd card with high-speed data transfer and durable design., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef4"
+    },
+    "name": "NAS (Network Attached Storage)",
+    "description": "4-bay NAS solution for home or office with RAID support for data redundancy.",
+    "price": 399.99,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/357574943/AW/RR/PX/181764/network-attached-storage.jpg",
+    "brand": "Synology",
+    "category": "Storage",
+    "product_description": "The NAS (Network Attached Storage) offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as 4-bay nas solution for home or office with raid support for data redundancy., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef5"
+    },
+    "name": "USB Flash Drive",
+    "description": "64GB USB flash drive with fast read and write speeds for convenient file storage.",
+    "price": 12.99,
+    "image_url": "https://www.thevaluestore.in/image/cache/catalog/2023/Pendrive/dual-drive-go-type-c-1-1000x1000.jpg",
+    "brand": "Kingston",
+    "category": "Storage",
+    "product_description": "The USB Flash Drive offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as 64gb usb flash drive with fast read and write speeds for convenient file storage., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef6"
+    },
+    "name": "Cloud Storage Subscription",
+    "description": "1TB cloud storage subscription for secure and accessible data storage.",
+    "price": 99.99,
+    "image_url": "https://m.media-amazon.com/images/I/71Adm-mOnDL._AC_UF1000,1000_QL80_.jpg",
+    "brand": "Google Drive",
+    "category": "Storage",
+    "product_description": "The Cloud Storage Subscription offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as 1tb cloud storage subscription for secure and accessible data storage., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef7"
+    },
+    "name": "SD Card Reader",
+    "description": "High-speed SD card reader for quick data transfer from cameras and smartphones.",
+    "price": 29.99,
+    "image_url": "https://gppro.in/wp-content/uploads/2023/12/USB-3.1-4.jpg",
+    "brand": "Anker",
+    "category": "Storage",
+    "product_description": "The SD Card Reader offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as high-speed sd card reader for quick data transfer from cameras and smartphones., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef8"
+    },
+    "name": "Internal SSD",
+    "description": "500GB internal SSD with NVMe technology for ultra-fast performance in laptops.",
+    "price": 79.99,
+    "image_url": "https://m.media-amazon.com/images/I/51z0r7fyIdL.jpg",
+    "brand": "Crucial",
+    "category": "Storage",
+    "product_description": "The Internal SSD offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as 500gb internal ssd with nvme technology for ultra-fast performance in laptops., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417ef9"
+    },
+    "name": "External Blu-ray Drive",
+    "description": "External Blu-ray drive for high-capacity data storage and media playback.",
+    "price": 129.99,
+    "image_url": "https://m.media-amazon.com/images/I/41cZXvfxepS.jpg",
+    "brand": "LG",
+    "category": "Storage",
+    "product_description": "The External Blu-ray Drive offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as external blu-ray drive for high-capacity data storage and media playback., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417efa"
+    },
+    "name": "Backup Drive",
+    "description": "Automatic backup drive with 1TB storage for hassle-free data protection.",
+    "price": 99.99,
+    "image_url": "https://www.supremeindia.com/uploads/products/20242309172709766666f16b424dd7f.png",
+    "brand": "Seagate",
+    "category": "Storage",
+    "product_description": "The Backup Drive offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Storage category. With features such as automatic backup drive with 1tb storage for hassle-free data protection., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417efb"
+    },
+    "name": "Mechanical Gaming Keyboard",
+    "description": "RGB mechanical gaming keyboard with customizable backlighting and anti-ghosting features.",
+    "price": 99.99,
+    "image_url": "https://www.thevaluestore.in/image/cache/catalog/2024/Zebronics/Keyboard/chroma-2-1000x1000.jpg",
+    "brand": "Razer",
+    "category": "Keyboards",
+    "product_description": "The Mechanical Gaming Keyboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as rgb mechanical gaming keyboard with customizable backlighting and anti-ghosting features., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417efc"
+    },
+    "name": "Wireless Bluetooth Keyboard",
+    "description": "Sleek wireless Bluetooth keyboard with a compact design and long battery life.",
+    "price": 59.99,
+    "image_url": "https://www.thevaluestore.in/image/cache/catalog/2024/Logitech/Keyboard/keys-to-go-2-1-1000x1000.jpg",
+    "brand": "Logitech",
+    "category": "Keyboards",
+    "product_description": "The Wireless Bluetooth Keyboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as sleek wireless bluetooth keyboard with a compact design and long battery life., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417efd"
+    },
+    "name": "Ergonomic Keyboard",
+    "description": "Comfortable ergonomic keyboard designed to reduce wrist strain during long typing sessions.",
+    "price": 49.99,
+    "image_url": "https://www.thevaluestore.in/image/cache/catalog/2024/Logitech/Keyboard/wave-wh-1-1000x1000.jpg",
+    "brand": "Microsoft",
+    "category": "Keyboards",
+    "product_description": "The Ergonomic Keyboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as comfortable ergonomic keyboard designed to reduce wrist strain during long typing sessions., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417efe"
+    },
+    "name": "Compact Mechanical Keyboard",
+    "description": "Compact 60% mechanical keyboard with customizable switches for a tactile typing experience.",
+    "price": 79.99,
+    "image_url": "https://elitehubs.com/cdn/shop/products/mk1200-mini-1-1000x1000-1-2.jpg?v=1695304268",
+    "brand": "Keychron",
+    "category": "Keyboards",
+    "product_description": "The Compact Mechanical Keyboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as compact 60% mechanical keyboard with customizable switches for a tactile typing experience., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417eff"
+    },
+    "name": "Multimedia Keyboard",
+    "description": "Multimedia keyboard with dedicated function keys for quick access to media controls.",
+    "price": 39.99,
+    "image_url": "https://m.media-amazon.com/images/I/5103L4GKYiL.jpg",
+    "brand": "HP",
+    "category": "Keyboards",
+    "product_description": "The Multimedia Keyboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as multimedia keyboard with dedicated function keys for quick access to media controls., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f00"
+    },
+    "name": "Backlit Gaming Keyboard",
+    "description": "Backlit gaming keyboard with programmable keys and durable design for gaming enthusiasts.",
+    "price": 89.99,
+    "image_url": "https://m.media-amazon.com/images/I/7127lp9XcNL._AC_UF1000,1000_QL80_.jpg",
+    "brand": "Corsair",
+    "category": "Keyboards",
+    "product_description": "The Backlit Gaming Keyboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as backlit gaming keyboard with programmable keys and durable design for gaming enthusiasts., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f01"
+    },
+    "name": "Flexible Silicone Keyboard",
+    "description": "Washable flexible silicone keyboard that is perfect for on-the-go use and easy cleaning.",
+    "price": 24.99,
+    "image_url": "https://m.media-amazon.com/images/I/51MvqqXDVFL.jpg",
+    "brand": "iClever",
+    "category": "Keyboards",
+    "product_description": "The Flexible Silicone Keyboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as washable flexible silicone keyboard that is perfect for on-the-go use and easy cleaning., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f02"
+    },
+    "name": "Full-Size Wireless Keyboard",
+    "description": "Full-size wireless keyboard with a number pad and spill-resistant design.",
+    "price": 59.99,
+    "image_url": "https://m.media-amazon.com/images/I/71baIzX9j-L._AC_UF1000,1000_QL80_.jpg",
+    "brand": "Dell",
+    "category": "Keyboards",
+    "product_description": "The Full-Size Wireless Keyboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as full-size wireless keyboard with a number pad and spill-resistant design., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f03"
+    },
+    "name": "Gaming Keyboard with Wrist Rest",
+    "description": "Comfortable gaming keyboard with a detachable wrist rest for extended gaming sessions.",
+    "price": 69.99,
+    "image_url": "https://m.media-amazon.com/images/I/51Q0wCWZx0L.jpg",
+    "brand": "SteelSeries",
+    "category": "Keyboards",
+    "product_description": "The Gaming Keyboard with Wrist Rest offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as comfortable gaming keyboard with a detachable wrist rest for extended gaming sessions., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f04"
+    },
+    "name": "Keyboard with Touchpad",
+    "description": "All-in-one keyboard with an integrated touchpad for easy navigation and control.",
+    "price": 49.99,
+    "image_url": "https://www.thevaluestore.in/image/cache/catalog/2022/Logitech/Wireless-Keyboard/k400-plus-1-1000x1000.jpg",
+    "brand": "Asus",
+    "category": "Keyboards",
+    "product_description": "The Keyboard with Touchpad offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Keyboards category. With features such as all-in-one keyboard with an integrated touchpad for easy navigation and control., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f05"
+    },
+    "name": "Wireless Gaming Mouse",
+    "description": "High-precision wireless gaming mouse with customizable RGB lighting and adjustable DPI.",
+    "price": 59.99,
+    "image_url": "https://m.media-amazon.com/images/I/61HGj5FfEvL.jpg",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "product_description": "The Wireless Gaming Mouse offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as high-precision wireless gaming mouse with customizable rgb lighting and adjustable dpi., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f06"
+    },
+    "name": "Ergonomic Wireless Mouse",
+    "description": "Ergonomically designed wireless mouse with a comfortable grip and long battery life.",
+    "price": 29.99,
+    "image_url": "https://m.media-amazon.com/images/I/611t6o7fxfL.jpg",
+    "brand": "Microsoft",
+    "category": "Mouse",
+    "product_description": "The Ergonomic Wireless Mouse offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as ergonomically designed wireless mouse with a comfortable grip and long battery life., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f07"
+    },
+    "name": "Wired Gaming Mouse",
+    "description": "Durable wired gaming mouse with high sensitivity and programmable buttons.",
+    "price": 39.99,
+    "image_url": "https://m.media-amazon.com/images/I/51sLOxOrY9L._AC_UF1000,1000_QL80_.jpg",
+    "brand": "Razer",
+    "category": "Mouse",
+    "product_description": "The Wired Gaming Mouse offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as durable wired gaming mouse with high sensitivity and programmable buttons., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f08"
+    },
+    "name": "Compact Wireless Mouse",
+    "description": "Portable wireless mouse designed for travel with a compact design and USB receiver.",
+    "price": 19.99,
+    "image_url": "https://m.media-amazon.com/images/I/511im3gFq6L.jpg",
+    "brand": "HP",
+    "category": "Mouse",
+    "product_description": "The Compact Wireless Mouse offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as portable wireless mouse designed for travel with a compact design and usb receiver., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f09"
+    },
+    "name": "Gaming Mouse Pad",
+    "description": "Extra-large gaming mouse pad with a smooth surface for optimal mouse control.",
+    "price": 24.99,
+    "image_url": "https://www.tpstech.in/cdn/shop/products/Glorious_1gaming_cloth_stelath_mousepad3_A2_From_TPS_Technologies.jpg?v=1622197353&width=1445",
+    "brand": "SteelSeries",
+    "category": "Mouse",
+    "product_description": "The Gaming Mouse Pad offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as extra-large gaming mouse pad with a smooth surface for optimal mouse control., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f0a"
+    },
+    "name": "Bluetooth Mouse",
+    "description": "Sleek Bluetooth mouse compatible with laptops and tablets, featuring a low-profile design.",
+    "price": 34.99,
+    "image_url": "https://m.media-amazon.com/images/I/41Ukmuc0L-L.jpg",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "product_description": "The Bluetooth Mouse offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as sleek bluetooth mouse compatible with laptops and tablets, featuring a low-profile design., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f0b"
+    },
+    "name": "Vertical Ergonomic Mouse",
+    "description": "Unique vertical mouse design to reduce wrist strain for comfortable long-term use.",
+    "price": 49.99,
+    "image_url": "https://www.thevaluestore.in/image/cache/catalog/2024/Logitech/Mouse/lift-rose-1-1000x1000.jpg",
+    "brand": "Evoluent",
+    "category": "Mouse",
+    "product_description": "The Vertical Ergonomic Mouse offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as unique vertical mouse design to reduce wrist strain for comfortable long-term use., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f0c"
+    },
+    "name": "Optical Mouse",
+    "description": "Reliable optical mouse with a classic design and precise tracking.",
+    "price": 14.99,
+    "image_url": "https://www.ipshopy.com/image/cache/catalog/FRONTECH-Premium-3-Button-USB-Wired-Mouse-1000-DPI-Optical-Sensor-Plug-P/FRONTECH-Premium-3-Button-USB-Wired-Mouse-1000-DPI-Optical-Sensor-Plug-Play-Comp-1000x1000.jpg",
+    "brand": "Dell",
+    "category": "Mouse",
+    "product_description": "The Optical Mouse offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as reliable optical mouse with a classic design and precise tracking., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f0d"
+    },
+    "name": "Gaming Mouse with RGB",
+    "description": "Gaming mouse with customizable RGB lighting and 16 programmable buttons for gamers.",
+    "price": 79.99,
+    "image_url": "https://m.media-amazon.com/images/I/51g+TY0AVML.jpg",
+    "brand": "Corsair",
+    "category": "Mouse",
+    "product_description": "The Gaming Mouse with RGB offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as gaming mouse with customizable rgb lighting and 16 programmable buttons for gamers., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f0e"
+    },
+    "name": "Rechargeable Wireless Mouse",
+    "description": "Stylish rechargeable wireless mouse with USB-C charging and long battery life.",
+    "price": 39.99,
+    "image_url": "https://m.media-amazon.com/images/I/41UubT+aT+L.jpg",
+    "brand": "Apple",
+    "category": "Mouse",
+    "product_description": "The Rechargeable Wireless Mouse offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Mouse category. With features such as stylish rechargeable wireless mouse with usb-c charging and long battery life., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f0f"
+    },
+    "name": "4K Ultra HD Monitor",
+    "description": "27-inch 4K Ultra HD monitor with vibrant colors and high resolution for stunning visuals.",
+    "price": 349.99,
+    "image_url": "https://kairaglobal.in/cdn/shop/files/01_72a643c3-46f3-4d28-9793-29036f51db3d.jpg?v=1705377571",
+    "brand": "LG",
+    "category": "Display",
+    "product_description": "The 4K Ultra HD Monitor offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as 27-inch 4k ultra hd monitor with vibrant colors and high resolution for stunning visuals., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f10"
+    },
+    "name": "Gaming Monitor",
+    "description": "Curved 32-inch gaming monitor with a 144Hz refresh rate and G-SYNC compatibility.",
+    "price": 499.99,
+    "image_url": "https://www.designinfo.in/wp-content/uploads/2023/07/gigabyte-g27f-2-27-inch-gaming-monitor-1.webp",
+    "brand": "ASUS",
+    "category": "Display",
+    "product_description": "The Gaming Monitor offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as curved 32-inch gaming monitor with a 144hz refresh rate and g-sync compatibility., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f11"
+    },
+    "name": "Portable Projector",
+    "description": "Compact portable projector with 1080p resolution and built-in speakers.",
+    "price": 299.99,
+    "image_url": "https://www.jiomart.com/images/product/original/rvsneayumo/ibs-uc-500-projector-400lm-portable-mini-home-theater-led-projector-with-remote-controller-product-images-orvsneayumo-p603783865-0-202308111445.jpg?im=Resize=(1000,1000)",
+    "brand": "Epson",
+    "category": "Display",
+    "product_description": "The Portable Projector offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as compact portable projector with 1080p resolution and built-in speakers., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f12"
+    },
+    "name": "Digital Signage Display",
+    "description": "55-inch digital signage display for advertising and presentations with 1080p resolution.",
+    "price": 899.99,
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/1/MQ/VF/QM/182804542/19-inch-multi-touch-screen-table-tabletop-info-kiosk.jpg",
+    "brand": "Samsung",
+    "category": "Display",
+    "product_description": "The Digital Signage Display offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as 55-inch digital signage display for advertising and presentations with 1080p resolution., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f13"
+    },
+    "name": "LCD Monitor",
+    "description": "24-inch LCD monitor with Full HD resolution and built-in speakers.",
+    "price": 149.99,
+    "image_url": "https://www.lapcare.com/cdn/shop/products/1_b66a9e1b-d576-4e13-8993-f920fdaa03f1.webp?v=1706876579&width=2048",
+    "brand": "Dell",
+    "category": "Display",
+    "product_description": "The LCD Monitor offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as 24-inch lcd monitor with full hd resolution and built-in speakers., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f14"
+    },
+    "name": "Smart TV",
+    "description": "65-inch 4K Smart TV with built-in streaming services and voice control features.",
+    "price": 799.99,
+    "image_url": "https://www.corneaworld.com/cdn/shop/files/Image_3_4fff4dc1-576d-454b-b7af-5cd57b032378.jpg?v=1711707353",
+    "brand": "Sony",
+    "category": "Display",
+    "product_description": "The Smart TV offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as 65-inch 4k smart tv with built-in streaming services and voice control features., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f15"
+    },
+    "name": "OLED Monitor",
+    "description": "27-inch OLED monitor with true black colors and exceptional contrast ratio.",
+    "price": 1199.99,
+    "image_url": "https://www.pcstudio.in/wp-content/uploads/2024/05/Dell-Alienware-32-Inch-4K-QD-Oled-Gaming-Monitor-1.jpg",
+    "brand": "LG",
+    "category": "Display",
+    "product_description": "The OLED Monitor offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as 27-inch oled monitor with true black colors and exceptional contrast ratio., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f16"
+    },
+    "name": "Touchscreen Monitor",
+    "description": "23-inch touchscreen monitor with multi-touch capability and 1080p resolution.",
+    "price": 349.99,
+    "image_url": "https://sidetrak.com/cdn/shop/products/01_Sidetrak_Solo-4k-touch_4k-touchscreen-monitor_2021.04.19_Product_STFR4KTC15BL_4K-Touch_Primary-crop_1024x1024.jpg?v=1632422165",
+    "brand": "Acer",
+    "category": "Display",
+    "product_description": "The Touchscreen Monitor offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as 23-inch touchscreen monitor with multi-touch capability and 1080p resolution., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f17"
+    },
+    "name": "Wireless Display Adapter",
+    "description": "Wireless display adapter for streaming content from devices to your TV.",
+    "price": 39.99,
+    "image_url": "https://images.verbatim.com/includes/binary_details.php?show=1&id=608345",
+    "brand": "Microsoft",
+    "category": "Display",
+    "product_description": "The Wireless Display Adapter offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as wireless display adapter for streaming content from devices to your tv., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f18"
+    },
+    "name": "VR Headset",
+    "description": "Virtual reality headset with immersive experience and high-resolution display.",
+    "price": 399.99,
+    "image_url": "https://m.media-amazon.com/images/I/41S6uEKBSOL.jpg",
+    "brand": "Oculus",
+    "category": "Display",
+    "product_description": "The VR Headset offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Display category. With features such as virtual reality headset with immersive experience and high-resolution display., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f19"
+    },
+    "name": "NVIDIA GeForce RTX 4090",
+    "description": "The ultimate gaming GPU with 24GB GDDR6X memory and advanced ray tracing capabilities.",
+    "price": 1599.99,
+    "image_url": "https://m.media-amazon.com/images/I/61DnMZoF5JL.jpg",
+    "brand": "NVIDIA",
+    "category": "GPU",
+    "product_description": "The NVIDIA GeForce RTX 4090 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as the ultimate gaming gpu with 24gb gddr6x memory and advanced ray tracing capabilities., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f1a"
+    },
+    "name": "AMD Radeon RX 7900 XT",
+    "description": "Powerful GPU featuring 20GB GDDR6 memory and excellent performance for gaming and content creation.",
+    "price": 999.99,
+    "image_url": "https://gamesncomps.com/wp-content/uploads/2023/02/gv-r79xtgaming-oc-20gd-1-1000x1000-1.jpg",
+    "brand": "AMD",
+    "category": "GPU",
+    "product_description": "The AMD Radeon RX 7900 XT offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as powerful gpu featuring 20gb gddr6 memory and excellent performance for gaming and content creation., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f1b"
+    },
+    "name": "NVIDIA GeForce RTX 3080",
+    "description": "High-performance GPU designed for gamers with 10GB GDDR6X memory and real-time ray tracing.",
+    "price": 699.99,
+    "image_url": "https://m.media-amazon.com/images/I/61p2od8M9gS.jpg",
+    "brand": "NVIDIA",
+    "category": "GPU",
+    "product_description": "The NVIDIA GeForce RTX 3080 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as high-performance gpu designed for gamers with 10gb gddr6x memory and real-time ray tracing., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f1c"
+    },
+    "name": "AMD Radeon RX 6800",
+    "description": "Fast GPU with 16GB GDDR6 memory and impressive performance for 1440p gaming.",
+    "price": 579.99,
+    "image_url": "https://m.media-amazon.com/images/I/61kUF-gOHeL.jpg",
+    "brand": "AMD",
+    "category": "GPU",
+    "product_description": "The AMD Radeon RX 6800 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as fast gpu with 16gb gddr6 memory and impressive performance for 1440p gaming., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f1d"
+    },
+    "name": "NVIDIA GeForce GTX 1660 Super",
+    "description": "Affordable gaming GPU with 6GB GDDR6 memory, perfect for 1080p gaming.",
+    "price": 249.99,
+    "image_url": "https://devrajcomputers.com/wp-content/uploads/2023/11/GIGABYTE-GEFORCE-GTX-1660-SUPER.jpg",
+    "brand": "NVIDIA",
+    "category": "GPU",
+    "product_description": "The NVIDIA GeForce GTX 1660 Super offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as affordable gaming gpu with 6gb gddr6 memory, perfect for 1080p gaming., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f1e"
+    },
+    "name": "AMD Radeon RX 5700 XT",
+    "description": "Mid-range GPU with 8GB GDDR6 memory, ideal for gaming and multitasking.",
+    "price": 399.99,
+    "image_url": "https://m.media-amazon.com/images/I/612JeqSMnwL.jpg",
+    "brand": "AMD",
+    "category": "GPU",
+    "product_description": "The AMD Radeon RX 5700 XT offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as mid-range gpu with 8gb gddr6 memory, ideal for gaming and multitasking., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f1f"
+    },
+    "name": "NVIDIA GeForce RTX 3070",
+    "description": "Powerful GPU with 8GB GDDR6 memory, delivering excellent performance for 1440p gaming.",
+    "price": 499.99,
+    "image_url": "https://www.thevaluestore.in/image/cache/catalog/2020/Graphics-Card/asus-rtx-3070-gaming-oc-8gb-gddr6-1-1000x1000.jpg",
+    "brand": "NVIDIA",
+    "category": "GPU",
+    "product_description": "The NVIDIA GeForce RTX 3070 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as powerful gpu with 8gb gddr6 memory, delivering excellent performance for 1440p gaming., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f20"
+    },
+    "name": "ASUS ROG Strix GeForce RTX 3060",
+    "description": "Stylish and powerful GPU with 12GB GDDR6 memory and advanced cooling technology.",
+    "price": 389.99,
+    "image_url": "https://i0.wp.com/shop.clarioncomputers.in/wp-content/uploads/2024/07/ASUS-ROG-STRIX-RTX-3060-V2-OC-12GB-LHR-GRAPHICS-CARD-1.png?fit=600%2C600&ssl=1",
+    "brand": "ASUS",
+    "category": "GPU",
+    "product_description": "The ASUS ROG Strix GeForce RTX 3060 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as stylish and powerful gpu with 12gb gddr6 memory and advanced cooling technology., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f21"
+    },
+    "name": "MSI GeForce GTX 1650 Gaming X",
+    "description": "Compact and efficient GPU with 4GB GDDR6 memory, perfect for eSports gaming.",
+    "price": 199.99,
+    "image_url": "https://www.tpstech.in/cdn/shop/products/MSI_GeForce_RTX_2060_Gaming_Z_6GB_DDR6_Graphics_Card_from_The_Peripheral_Store_4_2bb683e7-132d-4618-a980-8cea917bec2b.jpg?v=1571609210&width=1445",
+    "brand": "MSI",
+    "category": "GPU",
+    "product_description": "The MSI GeForce GTX 1650 Gaming X offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as compact and efficient gpu with 4gb gddr6 memory, perfect for esports gaming., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f22"
+    },
+    "name": "Gigabyte Radeon RX 6600 XT",
+    "description": "6GB GDDR6 memory GPU offering great performance for high-quality gaming experiences.",
+    "price": 379.99,
+    "image_url": "https://media.icdn.hu/product/GalleryMod/2021-08/714467/resp/1692000_gigabyte_gv_r66xtgamingoc_pro_8gd_radeon_rx_6600_xt_8gb_gddr6_gaming_oc_pro_pcie.webp",
+    "brand": "Gigabyte",
+    "category": "GPU",
+    "product_description": "The Gigabyte Radeon RX 6600 XT offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the GPU category. With features such as 6gb gddr6 memory gpu offering great performance for high-quality gaming experiences., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f23"
+    },
+    "name": "Intel Core i9-12900K",
+    "description": "12th Gen Intel Core i9 processor with 16 cores for high-performance gaming and multitasking.",
+    "price": 589.99,
+    "image_url": "https://nationalpc.in/image/cache/catalog/product/CPU/intel/12th-Gen/i9-12900K/01-1000x1000.jpg",
+    "brand": "Intel",
+    "category": "CPU",
+    "product_description": "The Intel Core i9-12900K offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as 12th gen intel core i9 processor with 16 cores for high-performance gaming and multitasking., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f24"
+    },
+    "name": "AMD Ryzen 9 5900X",
+    "description": "High-performance 12-core processor for gaming and content creation with excellent multitasking.",
+    "price": 499.99,
+    "image_url": "https://nationalpc.in/image/cache/catalog/product/CPU/AMD/Ryzen-5000/5900X/3D-Box-1-1000x1000.jpg",
+    "brand": "AMD",
+    "category": "CPU",
+    "product_description": "The AMD Ryzen 9 5900X offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as high-performance 12-core processor for gaming and content creation with excellent multitasking., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f25"
+    },
+    "name": "Intel Core i7-11700K",
+    "description": "Powerful 8-core processor designed for gaming and productivity with enhanced performance.",
+    "price": 399.99,
+    "image_url": "https://m.media-amazon.com/images/I/71idAEIDhvL.jpg",
+    "brand": "Intel",
+    "category": "CPU",
+    "product_description": "The Intel Core i7-11700K offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as powerful 8-core processor designed for gaming and productivity with enhanced performance., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f26"
+    },
+    "name": "AMD Ryzen 7 5800X",
+    "description": "8-core processor with high clock speeds, ideal for gaming and streaming applications.",
+    "price": 349.99,
+    "image_url": "https://drr622wuctn26.cloudfront.net/image/cache/catalog/processor/amd/100-100000063wof/100-100000063wof-image_main-600x600.jpg",
+    "brand": "AMD",
+    "category": "CPU",
+    "product_description": "The AMD Ryzen 7 5800X offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as 8-core processor with high clock speeds, ideal for gaming and streaming applications., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f27"
+    },
+    "name": "Intel Core i5-11600K",
+    "description": "6-core processor offering strong performance for gaming and daily tasks at an affordable price.",
+    "price": 259.99,
+    "image_url": "https://nationalpc.in/image/cache/catalog/product/CPU/intel/11th-Gen/i5-11600K-01-1000x1000.jpg",
+    "brand": "Intel",
+    "category": "CPU",
+    "product_description": "The Intel Core i5-11600K offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as 6-core processor offering strong performance for gaming and daily tasks at an affordable price., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f28"
+    },
+    "name": "AMD Ryzen 5 5600X",
+    "description": "6-core processor with excellent performance per watt, perfect for gaming and productivity.",
+    "price": 199.99,
+    "image_url": "https://www.tpstech.in/cdn/shop/products/AMD_Ryzen_5_5600G_processor_from_tpstech.in_main2.jpg?v=1663046783&width=1445",
+    "brand": "AMD",
+    "category": "CPU",
+    "product_description": "The AMD Ryzen 5 5600X offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as 6-core processor with excellent performance per watt, perfect for gaming and productivity., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f29"
+    },
+    "name": "Intel Pentium Gold G6400",
+    "description": "Dual-core processor for basic computing tasks, ideal for budget-friendly builds.",
+    "price": 89.99,
+    "image_url": "https://visaovip.com/imagem/cpu-intel/processador-intel-pentium-gold-g6400-socket-lga-1200-4-0ghz-4mb/2/640710.jpg?pfdrid_c=true",
+    "brand": "Intel",
+    "category": "CPU",
+    "product_description": "The Intel Pentium Gold G6400 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as dual-core processor for basic computing tasks, ideal for budget-friendly builds., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f2a"
+    },
+    "name": "AMD Athlon 3000G",
+    "description": "Budget dual-core processor with integrated graphics, suitable for light tasks and multimedia.",
+    "price": 49.99,
+    "image_url": "https://m.media-amazon.com/images/I/51wiBVz7jaL.jpg",
+    "brand": "AMD",
+    "category": "CPU",
+    "product_description": "The AMD Athlon 3000G offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as budget dual-core processor with integrated graphics, suitable for light tasks and multimedia., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f2b"
+    },
+    "name": "Intel Core i3-10100",
+    "description": "Quad-core processor offering good performance for everyday computing and entry-level gaming.",
+    "price": 129.99,
+    "image_url": "https://elitehubs.com/cdn/shop/files/i3-10100-image-main-600x600_result.webp?v=1693233065",
+    "brand": "Intel",
+    "category": "CPU",
+    "product_description": "The Intel Core i3-10100 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as quad-core processor offering good performance for everyday computing and entry-level gaming., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "67228ac98691679158417f2c"
+    },
+    "name": "AMD Ryzen Threadripper 3990X",
+    "description": "High-end 64-core processor designed for extreme multitasking and professional workloads.",
+    "price": 3999.99,
+    "image_url": "https://demo1.gyso.in/valuestoredemo1/image/cache/catalog/2021/Amd/threadripper-3990x-3-1000x1000.jpg",
+    "brand": "AMD",
+    "category": "CPU",
+    "product_description": "The AMD Ryzen Threadripper 3990X offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the CPU category. With features such as high-end 64-core processor designed for extreme multitasking and professional workloads., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af41"
+    },
+    "name": "Gaming Motherboard",
+    "description": "ATX motherboard with RGB lighting, built for high-performance gaming and overclocking.",
+    "price": 299.99,
+    "image_url": "https://www.tpstech.in/cdn/shop/products/ASUSROGSTRIX_B760-F_GAMING_motherboard_from_tpstech.in_main.jpg?v=1675688493",
+    "brand": "ASUS",
+    "category": "Motherboards",
+    "product_description": "The Gaming Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as atx motherboard with rgb lighting, built for high-performance gaming and overclocking., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af42"
+    },
+    "name": "Mini ITX Motherboard",
+    "description": "Compact Mini ITX motherboard ideal for small form-factor PCs, with Wi-Fi and Bluetooth support.",
+    "price": 199.99,
+    "image_url": "https://www.pcstudio.in/wp-content/uploads/2024/03/Gigabyte-B650I-Ax-Motherboard-1.jpg",
+    "brand": "Gigabyte",
+    "category": "Motherboards",
+    "product_description": "The Mini ITX Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as compact mini itx motherboard ideal for small form-factor pcs, with wi-fi and bluetooth support., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af43"
+    },
+    "name": "ATX Motherboard with PCIe 4.0",
+    "description": "Full-sized ATX motherboard supporting PCIe 4.0 for high-speed data transfer.",
+    "price": 239.99,
+    "image_url": "https://www.tpstech.in/cdn/shop/products/ASUSPrimeH610M-ED4M-ATXMotherboard-FromTPSTech-06.jpg?v=1642509498",
+    "brand": "MSI",
+    "category": "Motherboards",
+    "product_description": "The ATX Motherboard with PCIe 4.0 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as full-sized atx motherboard supporting pcie 4.0 for high-speed data transfer., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af44"
+    },
+    "name": "Wi-Fi Enabled Motherboard",
+    "description": "Motherboard with built-in Wi-Fi and Bluetooth for convenient connectivity.",
+    "price": 189.99,
+    "image_url": "https://m.media-amazon.com/images/I/61NckIfjjwL.jpg",
+    "brand": "ASRock",
+    "category": "Motherboards",
+    "product_description": "The Wi-Fi Enabled Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as motherboard with built-in wi-fi and bluetooth for convenient connectivity., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af45"
+    },
+    "name": "Workstation Motherboard",
+    "description": "High-performance workstation motherboard for professional computing needs.",
+    "price": 399.99,
+    "image_url": "https://m.media-amazon.com/images/I/71+YpJCPWbL.jpg",
+    "brand": "Supermicro",
+    "category": "Motherboards",
+    "product_description": "The Workstation Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as high-performance workstation motherboard for professional computing needs., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af46"
+    },
+    "name": "Overclocking Motherboard",
+    "description": "Designed for overclocking enthusiasts, with extensive cooling and power management features.",
+    "price": 349.99,
+    "image_url": "https://m.media-amazon.com/images/I/71ubTinPcOL.jpg",
+    "brand": "EVGA",
+    "category": "Motherboards",
+    "product_description": "The Overclocking Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as designed for overclocking enthusiasts, with extensive cooling and power management features., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af47"
+    },
+    "name": "Micro ATX Motherboard",
+    "description": "Compact Micro ATX motherboard, suitable for mid-tower PC builds.",
+    "price": 159.99,
+    "image_url": "https://www.krgkart.com/wp-content/uploads/2024/09/Gigabyte-B760M-H-DDR5-Micro-ATX-Motherboard-rev.-1.0-1-1.jpg.webp",
+    "brand": "Biostar",
+    "category": "Motherboards",
+    "product_description": "The Micro ATX Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as compact micro atx motherboard, suitable for mid-tower pc builds., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af48"
+    },
+    "name": "Server Motherboard",
+    "description": "Dual-socket server motherboard with advanced networking and storage options.",
+    "price": 549.99,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzKQ24TaC8GUrFCLVBUomcL_Esq6OMy-vhvQ&s",
+    "brand": "Intel",
+    "category": "Motherboards",
+    "product_description": "The Server Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as dual-socket server motherboard with advanced networking and storage options., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af49"
+    },
+    "name": "AMD-Compatible Motherboard",
+    "description": "AMD Ryzen compatible motherboard with support for DDR4 memory and PCIe 4.0.",
+    "price": 269.99,
+    "image_url": "https://m.media-amazon.com/images/I/71a9v8rGTJL.jpg",
+    "brand": "ASUS",
+    "category": "Motherboards",
+    "product_description": "The AMD-Compatible Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as amd ryzen compatible motherboard with support for ddr4 memory and pcie 4.0., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af4a"
+    },
+    "name": "Intel-Compatible Motherboard",
+    "description": "Intel-compatible motherboard optimized for 11th Gen CPUs and DDR4 RAM.",
+    "price": 229.99,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfXyti63NNPsHTM7qbYZ4mVEVj-CYitnV4w&s",
+    "brand": "Gigabyte",
+    "category": "Motherboards",
+    "product_description": "The Intel-Compatible Motherboard offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Motherboards category. With features such as intel-compatible motherboard optimized for 11th gen cpus and ddr4 ram., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af4b"
+    },
+    "name": "Mid-Tower Gaming Case",
+    "description": "Mid-tower gaming case with tempered glass side panel and RGB lighting.",
+    "price": 99.99,
+    "image_url": "https://m.media-amazon.com/images/I/81UF580pR9L.jpg",
+    "brand": "NZXT",
+    "category": "PC Case",
+    "product_description": "The Mid-Tower Gaming Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as mid-tower gaming case with tempered glass side panel and rgb lighting., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af4c"
+    },
+    "name": "Mini-ITX Case",
+    "description": "Compact Mini-ITX case with a modular design, ideal for small builds.",
+    "price": 79.99,
+    "image_url": "https://m.media-amazon.com/images/I/71IV9gB8cqL.jpg",
+    "brand": "Cooler Master",
+    "category": "PC Case",
+    "product_description": "The Mini-ITX Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as compact mini-itx case with a modular design, ideal for small builds., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af4d"
+    },
+    "name": "Full-Tower Case",
+    "description": "Spacious full-tower case with extensive cooling options and plenty of room for expansion.",
+    "price": 149.99,
+    "image_url": "https://m.media-amazon.com/images/I/71-XlOr3k2L.jpg",
+    "brand": "Corsair",
+    "category": "PC Case",
+    "product_description": "The Full-Tower Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as spacious full-tower case with extensive cooling options and plenty of room for expansion., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af4e"
+    },
+    "name": "High-Airflow Case",
+    "description": "High-airflow case designed to keep components cool with optimized airflow paths.",
+    "price": 89.99,
+    "image_url": "https://drr622wuctn26.cloudfront.net/image/cache/catalog/cabinet/montech/air-1000-lite-black/montech-air-1000-lite-mid-tower-cabinet-black-image-main-600x600.jpg",
+    "brand": "Fractal Design",
+    "category": "PC Case",
+    "product_description": "The High-Airflow Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as high-airflow case designed to keep components cool with optimized airflow paths., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af4f"
+    },
+    "name": "Micro-ATX Case",
+    "description": "Micro-ATX case with a sleek design and convenient front I/O ports.",
+    "price": 69.99,
+    "image_url": "https://m.media-amazon.com/images/I/51BWSnBchWL.jpg",
+    "brand": "Thermaltake",
+    "category": "PC Case",
+    "product_description": "The Micro-ATX Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as micro-atx case with a sleek design and convenient front i/o ports., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af50"
+    },
+    "name": "Tempered Glass PC Case",
+    "description": "ATX case with tempered glass panels and built-in RGB lighting for aesthetic builds.",
+    "price": 129.99,
+    "image_url": "https://nationalpc.in/image/cache/catalog/product/CAB/Corsair/iCUE-5000X-RGB-white/1-1000x1000.jpg",
+    "brand": "Lian Li",
+    "category": "PC Case",
+    "product_description": "The Tempered Glass PC Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as atx case with tempered glass panels and built-in rgb lighting for aesthetic builds., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af51"
+    },
+    "name": "Silent PC Case",
+    "description": "Noise-dampening PC case for quiet operation with soundproof materials.",
+    "price": 119.99,
+    "image_url": "https://www.pcstudio.in/wp-content/uploads/2020/10/MetallicGear-Neo-Silent-Mid-Tower-ATX-Cabinet-1.jpg",
+    "brand": "be quiet!",
+    "category": "PC Case",
+    "product_description": "The Silent PC Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as noise-dampening pc case for quiet operation with soundproof materials., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af52"
+    },
+    "name": "Budget ATX Case",
+    "description": "Affordable ATX case with basic features and solid build quality.",
+    "price": 49.99,
+    "image_url": "https://m.media-amazon.com/images/I/81UF580pR9L.jpg",
+    "brand": "Phanteks",
+    "category": "PC Case",
+    "product_description": "The Budget ATX Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as affordable atx case with basic features and solid build quality., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af53"
+    },
+    "name": "Modular PC Case",
+    "description": "Modular PC case with interchangeable parts for custom configurations.",
+    "price": 139.99,
+    "image_url": "https://m.media-amazon.com/images/I/81zNBVe6KLL._AC_UF1000,1000_QL80_.jpg",
+    "brand": "InWin",
+    "category": "PC Case",
+    "product_description": "The Modular PC Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as modular pc case with interchangeable parts for custom configurations., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af54"
+    },
+    "name": "Water Cooling Ready Case",
+    "description": "Case designed for water cooling systems with support for radiators and pumps.",
+    "price": 179.99,
+    "image_url": "https://m.media-amazon.com/images/I/61sqjtdINbL.jpg",
+    "brand": "Thermaltake",
+    "category": "PC Case",
+    "product_description": "The Water Cooling Ready Case offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the PC Case category. With features such as case designed for water cooling systems with support for radiators and pumps., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.0
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af55"
+    },
+    "name": "Predator Helios 300",
+    "description": "Powerful gaming laptop with Intel i7 processor and NVIDIA GeForce GTX 1660 Ti.",
+    "price": 1199.99,
+    "image_url": "https://elcytec.com/wp-content/uploads/2022/05/acer_predator_1.jpg",
+    "brand": "Acer",
+    "category": "Gaming Laptops",
+    "product_description": "The Predator Helios 300 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as powerful gaming laptop with intel i7 processor and nvidia geforce gtx 1660 ti., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af56"
+    },
+    "name": "ROG Zephyrus G14",
+    "description": "Ultra-slim gaming laptop with AMD Ryzen 9 and GeForce RTX 3060.",
+    "price": 1499.99,
+    "image_url": "https://m.media-amazon.com/images/I/613rJqxIQnL.jpg",
+    "brand": "ASUS",
+    "category": "Gaming Laptops",
+    "product_description": "The ROG Zephyrus G14 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as ultra-slim gaming laptop with amd ryzen 9 and geforce rtx 3060., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af57"
+    },
+    "name": "Alienware m15 R4",
+    "description": "High-performance gaming laptop with customizable RGB lighting and Intel i9 processor.",
+    "price": 1999.99,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVq1cpAng551f5uRdodBS5-DzfKMcwM3pZYg&s",
+    "brand": "Dell",
+    "category": "Gaming Laptops",
+    "product_description": "The Alienware m15 R4 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as high-performance gaming laptop with customizable rgb lighting and intel i9 processor., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af58"
+    },
+    "name": "Lenovo Legion 5 Pro",
+    "description": "Premium gaming laptop with 16-inch display, AMD Ryzen 7, and RTX 3070 graphics.",
+    "price": 1699.99,
+    "image_url": "https://images-cdn.ubuy.co.in/6363797fbab94651c167e9d2-2022-newest-lenovo-legion-5-pro-gaming.jpg",
+    "brand": "Lenovo",
+    "category": "Gaming Laptops",
+    "product_description": "The Lenovo Legion 5 Pro offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as premium gaming laptop with 16-inch display, amd ryzen 7, and rtx 3070 graphics., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af59"
+    },
+    "name": "Razer Blade 15",
+    "description": "Sleek gaming laptop with 144Hz display and NVIDIA GeForce RTX 3070.",
+    "price": 1899.99,
+    "image_url": "https://images-cdn.ubuy.co.in/654b0cb2baaabd4eb85bbae5-razer-blade-15-gaming-laptop-2020-core.jpg",
+    "brand": "Razer",
+    "category": "Gaming Laptops",
+    "product_description": "The Razer Blade 15 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as sleek gaming laptop with 144hz display and nvidia geforce rtx 3070., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af5a"
+    },
+    "name": "MSI GF65 Thin",
+    "description": "Affordable gaming laptop with Intel Core i5 and GTX 1660 Ti graphics card.",
+    "price": 999.99,
+    "image_url": "https://nexcelsaudi.com/wp-content/uploads/2024/01/81RJBDd3jyL._UF10001000_QL80_-jpg.webp",
+    "brand": "MSI",
+    "category": "Gaming Laptops",
+    "product_description": "The MSI GF65 Thin offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as affordable gaming laptop with intel core i5 and gtx 1660 ti graphics card., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af5b"
+    },
+    "name": "HP Omen 15",
+    "description": "Stylish gaming laptop with AMD Ryzen 7, RTX 3060, and 144Hz display.",
+    "price": 1299.99,
+    "image_url": "https://ecom.myitworld.com/media/catalog/product/cache/2be1954f74caba3fffe9c28ffd4d15a6/x/d/xd0015ax_1_.png",
+    "brand": "HP",
+    "category": "Gaming Laptops",
+    "product_description": "The HP Omen 15 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as stylish gaming laptop with amd ryzen 7, rtx 3060, and 144hz display., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af5c"
+    },
+    "name": "Dell G5 15",
+    "description": "Reliable gaming laptop with Intel Core i7 and GeForce GTX 1650 Ti.",
+    "price": 1149.99,
+    "image_url": "https://m.media-amazon.com/images/I/61ll6G7K5AL.jpg",
+    "brand": "Dell",
+    "category": "Gaming Laptops",
+    "product_description": "The Dell G5 15 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as reliable gaming laptop with intel core i7 and geforce gtx 1650 ti., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af5d"
+    },
+    "name": "ASUS TUF Gaming A15",
+    "description": "Durable gaming laptop with AMD Ryzen 5 and NVIDIA GTX 1650.",
+    "price": 899.99,
+    "image_url": "https://www.reliancedigital.in/medias/Asus-Tuf-A15-LP082W-Gaming-493838030-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyODEzNzB8aW1hZ2UvanBlZ3xpbWFnZXMvaGE3L2gzMS8xMDAxOTg0MDA2NTU2Ni5qcGd8NTQyYjhhYWFkZTZiMWRjYjkxMTM5NjYyYjVhYjI5NWI3MDk2NmU2Njk0OTU0Yzk4MDgxODlkN2RmNWE4NTFlYw",
+    "brand": "ASUS",
+    "category": "Gaming Laptops",
+    "product_description": "The ASUS TUF Gaming A15 offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as durable gaming laptop with amd ryzen 5 and nvidia gtx 1650., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  },
+  {
+    "_id": {
+      "$oid": "672364cd882519176c59af5e"
+    },
+    "name": "Gigabyte Aorus 15P",
+    "description": "High-performance gaming laptop with Intel i7 and RTX 3080 for immersive gaming.",
+    "price": 2199.99,
+    "image_url": "https://www.clove.co.uk/cdn/shop/files/56c7f2c7cae91be131fa40891b161085_1200x.jpg?v=1726133904",
+    "brand": "Gigabyte",
+    "category": "Gaming Laptops",
+    "product_description": "The Gigabyte Aorus 15P offers a perfect blend of performance and style, making it an ideal choice for users seeking high quality in the Gaming Laptops category. With features such as high-performance gaming laptop with intel i7 and rtx 3080 for immersive gaming., this product provides excellent value. Its design caters to both functionality and user comfort, ensuring satisfaction with every use.",
+    "rating": 4.5
+  }
+]

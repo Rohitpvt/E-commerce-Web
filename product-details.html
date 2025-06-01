@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin&family=Quattrocento:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="product-details.css">
+</head>
+
+<body>
+    <div class="overlay" id="overlay"></div>
+
+    <nav class="navbar">
+        <span class="material-icons menu-icon">menu</span>
+        <div class="toggle-container">
+            <input type="checkbox" id="dark-mode" aria-label="toggle-button">
+            <label for="dark-mode"></label>
+        </div>
+        <div class="nav-center">
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><span class="material-icons search-icon" id="search-button">search</span></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </div>
+        <a href="cart.html" class="cart-link">
+            <span class="material-icons cart-icon">shopping_cart</span>
+        </a>
+    </nav>
+
+
+    <div class="sidebar" id="sidebar">
+        <h2 class="sidebar-heading">Categories</h2>
+        <ul class="sidebar-links">
+            <li><a href="#audio">Audio</a></li>
+            <li><a href="#storage">Storage</a></li>
+            <li><a href="#keyboards">Keyboards</a></li>
+            <li><a href="#mouse">Mouse</a></li>
+            <li><a href="#display">Display</a></li>
+            <li><a href="#gpu">GPU</a></li>
+            <li><a href="#cpu">CPU</a></li>
+            <li><a href="#motherboards">Motherboards</a></li>
+            <li><a href="#pc case">PC Case</a></li>
+            <li><a href="#gaming laptops">Gaming Laptops</a></li>
+        </ul>
+    </div>
+
+
+
+    <div class="search-bar-container" id="search-bar">
+        <input type="text" class="search-bar-input" placeholder="Search...">
+        <ul class="suggestions-list" id="suggestions-list"></ul>
+    </div>
+    <div class="product-container">
+        <div class="product-image-section">
+            <img id="product-image" src="" alt="Product Image">
+
+        </div>
+        <div class="product-details-section">
+            <h1 id="product-name">Product Name</h1>
+            <p id="product-brand">Brand</p>
+            <br>
+            <p id="product-description">Product description goes here...</p>
+            <br>
+            <p id="product-rating">Rating</p>
+            <br>
+            <p id="product-price">Price</p>
+            <br>
+
+
+            <div class="quantity-selector">
+                <button id="decrease-quantity">-</button>
+                <span id="quantity">1</span>
+                <button id="increase-quantity">+</button>
+            </div>
+            <br>
+
+
+            <div class="button-group">
+                <button id="add-to-cart" class="action-btn"
+                    onclick="addToCart(document.getElementById('product-name').textContent)">
+                    Add to Cart
+                </button>
+                <button id="buy-now" class="primary-btn">Buy Now</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="product-details.js"></script>
+</body>
+
+</html>

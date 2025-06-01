@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Console</title>
+    <link rel="stylesheet" href="console.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar">
+        <span class="material-icons menu-toggle" onclick="toggleSidebar()">menu</span>
+        <span class="navbar-title">Admin Console</span>
+    </div>
+    <div class="sidebar">
+        <ul>
+            <li><a href="dashboard.html" onclick="loadPage('dashboard.html'); return false;">
+                <span class="material-icons">dashboard</span><span class="sidebar-text">Dashboard</span></a></li>
+            <li><a href="products.html" onclick="loadPage('products.html'); return false;">
+                <span class="material-icons">inventory</span><span class="sidebar-text">Products</span></a></li>
+            <li><a href="orders.html" onclick="loadPage('orders.html'); return false;">
+                <span class="material-icons">shopping_cart</span><span class="sidebar-text">Orders</span></a></li>
+                <li><a href="customer.html">
+                    <span class="material-icons">person</span><span class="sidebar-text">Customers</span>
+                </a></li>              
+        </ul>
+        <div class="logout">
+            <a href="#" onclick="openLogoutModal(); return false;">
+                <span class="material-icons">logout</span><span class="sidebar-text">Logout</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="main-content" id="main-content">
+        <h1>Admin Console</h1>
+        <div class="card-container">
+            <div onclick="loadPage('dashboard.html');" class="card">
+                <div class="badge black">
+                    <span class="material-icons">dashboard</span>
+                </div>
+                <h2>Dashboard</h2>
+            </div>
+            <div onclick="loadPage('products.html');" class="card">
+                <div class="badge pink">
+                    <span class="material-icons">inventory</span>
+                </div>
+                <h2>Products</h2>
+            </div>
+            <div onclick="loadPage('orders.html');" class="card">
+                <div class="badge green">
+                    <span class="material-icons">shopping_cart</span>
+                </div>
+                <h2>Orders</h2>
+            </div>
+            <div class="card" onclick="window.location.href='customer.html';">
+                <div class="badge blue">
+                    <span class="material-icons">person</span>
+                </div>
+                <h2>Customers</h2>
+            </div>
+    </div>
+    <div id="logoutModal" class="modal">
+        <div class="modal-content">
+            <p>Do you want to log out?</p>
+            <button onclick="confirmLogout()">Yes</button>
+            <button onclick="closeLogoutModal()">No</button>
+        </div>
+    </div>
+    <script src="console.js"></script>
+</body>
+</html>

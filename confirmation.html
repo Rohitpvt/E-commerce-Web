@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Order Confirmation</title>
+    <link rel="stylesheet" href="confirmation.css">
+</head>
+
+<body>
+    <div class="overlay" id="overlay"></div>
+
+    <nav class="navbar">
+        <span class="material-icons menu-icon">menu</span>
+        <div class="toggle-container">
+            <input type="checkbox" id="dark-mode" aria-label="toggle-button">
+            <label for="dark-mode"></label>
+        </div>
+        <div class="nav-center">
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><span class="material-icons search-icon" id="search-button">search</span></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </div>
+        <a href="cart.html" class="cart-link">
+            <span class="material-icons cart-icon">shopping_cart</span>
+        </a>
+    </nav>
+
+
+    <div class="sidebar" id="sidebar">
+        <h2 class="sidebar-heading">Categories</h2>
+        <ul class="sidebar-links">
+            <li><a href="#audio">Audio</a></li>
+            <li><a href="#storage">Storage</a></li>
+            <li><a href="#keyboards">Keyboards</a></li>
+            <li><a href="#mouse">Mouse</a></li>
+            <li><a href="#display">Display</a></li>
+            <li><a href="#gpu">GPU</a></li>
+            <li><a href="#cpu">CPU</a></li>
+            <li><a href="#motherboards">Motherboards</a></li>
+            <li><a href="#pc case">PC Case</a></li>
+            <li><a href="#gaming laptops">Gaming Laptops</a></li>
+        </ul>
+    </div>
+
+
+
+    <div class="search-bar-container" id="search-bar">
+        <input type="text" class="search-bar-input" placeholder="Search...">
+        <ul class="suggestions-list" id="suggestions-list"></ul>
+    </div>
+    <div class="confirmation-wrapper">
+        <div class="confirmation-container">
+            <div class="left-section">
+                <h1>Thank you for your purchase!</h1>
+                <p id="hours">Your order will be processed within 24 hours during working days. We will notify you by
+                    email once your order has been shipped.</p>
+
+                <div class="billing-address">
+                    <h2>Billing address</h2>
+                    <div class="address-display"></div>
+                </div>
+
+                <button id="trackOrderButton">Browse More Products</button>
+            </div>
+
+
+            <div class="right-section">
+                <h2>Order Summary</h2>
+                <div class="order-details">
+                    <p><strong>Date:</strong> <span id="orderDate"></span></p>
+                    <p><strong>Order Number:</strong> <span id="orderNumber"></span></p>
+                    <p><strong>Payment Method:</strong> <span id="paymentMethod">Cash-On-Delivery</span></p>
+                </div>
+
+                <div id="orderItems" class="order-items">
+
+                </div>
+
+                <div class="totals">
+                    <p>Sub Total: <span id="subtotal">$0.00</span></p>
+                    <p>Shipping: <span id="shipping">$5.00</span></p>
+                    <p>Discount: <span id="discount">$0.00</span></p>
+                    <p class="order-total">Order Total: <span id="total">$0.00</span></p>
+                </div>
+            </div>
+        </div>
+
+        <script src="confirmation.js"></script>
+</body>
+
+</html>

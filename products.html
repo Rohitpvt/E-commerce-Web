@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Management</title>
+    <link rel="stylesheet" href="products.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1>Manage Products</h1>
+
+    <form id="productForm" onsubmit="addProduct(event)" class="product-form-container">
+        <div class="form-group">
+            <label for="productName">Product Name</label>
+            <input type="text" id="productName" required>
+        </div>
+        <div class="form-group">
+            <label for="productBrand">Brand</label>
+            <input type="text" id="productBrand" required>
+        </div>
+        <div class="form-group">
+            <label for="productDescription">Description</label>
+            <textarea id="productDescription" rows="4" required></textarea>
+        </div>
+        <div class="form-group">
+            <label for="productPrice">Price</label>
+            <input type="number" id="productPrice" required>
+        </div>
+        <div class="form-group">
+            <label for="productCategory">Category</label>
+            <select id="productCategory" required>
+                <option value="">Select Category</option>
+                <option value="electronics">Audio</option>
+                <option value="clothing">Storage</option>
+                <option value="accessories">Keyboards</option>
+                <option value="accessories">Mouse</option>
+                <option value="accessories">Display</option>
+                <option value="accessories">GPU</option>
+                <option value="accessories">CPU</option>
+                <option value="accessories">Motherboards</option>
+                <option value="accessories">PC Case</option>
+                <option value="accessories">Gaming Laptops</option>
+
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="productImage">Image URL</label>
+            <input type="text" id="productImage" placeholder="Enter image URL" required>
+        </div>
+
+        <button type="submit" class="btn-add-product">Add Product</button>
+    </form>
+
+    <table id="productTable">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Brand</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Category</th>
+                <th>Image</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+
+    <script src="products.js"></script>
+</body>
+
+</html>

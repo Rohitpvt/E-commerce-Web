@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Checkout Page</title>
+    <link rel="stylesheet" href="checkout.css">
+</head>
+
+<body>
+    <div class="overlay" id="overlay"></div>
+
+    <nav class="navbar">
+        <span class="material-icons menu-icon" role="button" aria-label="Open menu">menu</span>
+
+        <div class="nav-center">
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><span class="material-icons search-icon" id="search-button" role="button"
+                        aria-label="Search">search</span></li>
+                <li><a href="#top">Contact</a></li>
+                <li><a href="#" id="aboutLink">About</a></li>
+            </ul>
+        </div>
+        <a href="cart.html" class="cart-link">
+            <span class="material-icons cart-icon">shopping_cart</span>
+        </a>
+    </nav>
+
+
+    <div class="sidebar" id="sidebar">
+        <h2 class="sidebar-heading">Categories</h2>
+        <ul class="sidebar-links">
+            <li><a href="#audio">Audio</a></li>
+            <li><a href="#storage">Storage</a></li>
+            <li><a href="#keyboards">Keyboards</a></li>
+            <li><a href="#mouse">Mouse</a></li>
+            <li><a href="#display">Display</a></li>
+            <li><a href="#gpu">GPU</a></li>
+            <li><a href="#cpu">CPU</a></li>
+            <li><a href="#motherboards">Motherboards</a></li>
+            <li><a href="#pc case">PC Case</a></li>
+            <li><a href="#gaming laptops">Gaming Laptops</a></li>
+        </ul>
+    </div>
+
+    <div class="search-bar-container" id="search-bar">
+        <input type="text" class="search-bar-input" placeholder="Search...">
+        <ul class="suggestions-list" id="suggestions-list"></ul>
+    </div>
+    <div class="checkout-container">
+
+        <div class="address-form">
+            <h2>Delivery Address</h2>
+            <form id="addressForm">
+                <label for="pincode">Pincode</label>
+                <input type="text" id="pincode" placeholder="6 digits PIN code" maxlength="6" pattern="\d{6}" required
+                    oninput="this.value = this.value.replace(/\D/g, '')">
+
+                <label for="flat">Flat, House no., Building, Company, Apartment</label>
+                <input type="text" id="flat" placeholder="E.g. A-23" required>
+                <label for="area">Area, Street, Sector, Village</label>
+                <input type="text" id="area" placeholder="E.g. Joseph Street" required>
+                <label for="landmark">Landmark</label>
+                <input type="text" id="landmark" placeholder="E.g. near Apollo hospital">
+                <label for="town">Town/City</label>
+                <input type="text" id="town" placeholder="E.g. Mumbai" required>
+                <label for="state">State</label>
+                <input type="text" id="state" placeholder="E.g. Maharashtra" required>
+            </form>
+        </div>
+
+
+        <div class="order-summary">
+            <h2>Review your cart</h2>
+            <div class="cart-heading">
+                <p class="heading-name">Name</p>
+                <p class="heading-quantity">Quantity</p>
+                <p class="heading-price">Price</p>
+            </div>
+            <div id="cartItems">
+
+            </div>
+            <div class="coupon-section">
+                <input type="text" id="couponCode" placeholder="Coupon Code">
+                <button class="apply-btn" onclick="applyCoupon()">Apply</button>
+            </div>
+            <div class="totals">
+                <p>Subtotal: <span id="subtotal">$0.00</span></p>
+                <p>Shipping: <span id="shipping">$5.00</span></p>
+                <p>Discount: <span id="discount">$0.00</span></p>
+                <p class="grand">Grand Total: <span id="total">$0.00</span></p>
+            </div>
+            <button id="payNowButton">Pay Now</button>
+        </div>
+    </div>
+
+    <script src="checkout.js"></script>
+</body>
+
+</html>

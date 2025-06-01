@@ -1,0 +1,16 @@
+[   
+    {
+        "name": "Abc",
+        "phone": "8765432985",
+        "emailAddress": "abc@adminhub.com",
+        "password": "Hello,2#*",
+        "confirmPassword": "Hello,2#*"
+    },
+    {
+        "name": "Xyz",
+        "phone": "5382917384",
+        "emailAddress": "xyz@adminhub.com",
+        "password": "2qgp2vpug",
+        "confirmPassword": "2qgp2vpug"
+    }
+]
